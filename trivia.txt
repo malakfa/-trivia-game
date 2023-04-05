@@ -1,0 +1,25 @@
+What year did the World Cup start ?
+1930
+1934
+1938
+1942
+What country is the 2022 World Cup ?
+Qatar
+Israel
+Italy
+Brazil
+How many countries participate in FIFA World Cup 2022 ?
+32
+33
+30
+35
+Which country has the most World Cups ?
+Brazil
+Argentina
+Spain
+Frace
+How many games total in World Cup ?
+64
+70
+81
+65
